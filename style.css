@@ -1,0 +1,22 @@
+footer {
+background-color: aquamarine;
+color: rgb(14, 14, 14);
+text-align: center;
+padding: 4px 0;
+position: fixed;
+width: 100%;
+bottom: 0;
+}
+
+table {
+    width: 100%;
+    margin: 0 auto;
+    border-collapse:collapse ;
+    background-color: blue;
+}
+.tienda-link:hover {
+
+}
+.product-img {
+    width: 100px;
+}
